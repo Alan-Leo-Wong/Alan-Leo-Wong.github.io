@@ -30,12 +30,12 @@ My name is Leo Wong / Lei Wang(王磊), I am a 2nd year Master Student at [Inter
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPM 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPM 2023</div><img src='images/2023SPMGradNormal.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A Region‐growing GradNormal Algorithm for Geometrically and Topologically Accurate Mesh Extraction.
+A Region‐growing GradNormal Algorithm for Geometrically and Topologically Accurate Mesh Extraction. ***(1st Best Paper Award)***
 
-[Chen Zong]([Chen Zong's Homepage (zongchen.site)](https://zongchen.site/)), Jinhui Zhao, **Lei Wang**, Pengfei Wang, Shuangmin Chen, [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html), Yuanfeng Zhou, [Changhe Tu]([Changhe Tu's Homepage (sdu.edu.cn)](http://irc.cs.sdu.edu.cn/~chtu/index.html)) and [Wenping Wang]([Wang, Wenping | Texas A&M University Engineering (tamu.edu)](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html))
+[Chen Zong]([Chen Zong's Homepage (zongchen.site)](https://zongchen.site/)), Jinhui Zhao, **Lei Wang**, Pengfei Wang, Shuangmin Chen, [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html), Yuanfeng Zhou, [Changhe Tu]([Changhe Tu's Homepage (sdu.edu.cn)](http://irc.cs.sdu.edu.cn/~chtu/index.html)) and [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html).
 
 # 📖 Educations
 - *2022.09 - now*, M.Eng in Computer Technology, Shandong University, Qingdao, China. 
