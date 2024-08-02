@@ -56,4 +56,4 @@ PCO: Precision-Controllable Offset Surfaces with Sharp Features.
 - *2018.09 - 2022.06*, B.Eng in Software Engineering, Harbin University of Science and Technology, Harbin, China. 
 
 # 💬 Teaching
-- *2024.03 - 2024.07*, Advanced Programming Language Design.  **Teaching Assistant.**
+- *2024.02 - 2024.07*, Advanced Programming Language Design.  **Teaching Assistant.**
