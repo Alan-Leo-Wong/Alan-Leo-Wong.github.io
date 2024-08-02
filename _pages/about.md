@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Leo Wong / Lei Wang(王磊), I am a 2nd year Master Student at [Interdisciplinary Research Center (IRC)](https://irc.cs.sdu.edu.cn/index.htm), Shandong University (SDU), under the supervision of [Prof. Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html). My research interests include computer graphics and geometry processing.
+My name is Leo Wong / Lei Wang(王磊), I am a 2nd year Master Student at [Interdisciplinary Research Center (IRC)](https://irc.cs.sdu.edu.cn/index.htm), [Shandong University (SDU)](http://www.en.qd.sdu.edu.cn/), under the supervision of [Prof. Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html). My research interests include computer graphics and geometry processing.
 
 **I am actively preparing to apply for PhD programs.** Feel free to explore my research background and academic interests to learn more about my plans and goals for my future academic career.
 
@@ -34,6 +34,8 @@ My name is Leo Wong / Lei Wang(王磊), I am a 2nd year Master Student at [Inter
 A Region‐growing GradNormal Algorithm for Geometrically and Topologically Accurate Mesh Extraction. ***(1st Best Paper Award)***
 
 [Chen Zong]([Chen Zong's Homepage (zongchen.site)](https://zongchen.site/)), Jinhui Zhao, **Lei Wang**, Pengfei Wang, Shuangmin Chen, [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html), Yuanfeng Zhou, [Changhe Tu]([Changhe Tu's Homepage (sdu.edu.cn)](http://irc.cs.sdu.edu.cn/~chtu/index.html)) and [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html).
+
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
