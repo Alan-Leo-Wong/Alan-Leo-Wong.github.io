@@ -35,7 +35,11 @@ A Region‐growing GradNormal Algorithm for Geometrically and Topologically Accu
 
 [Chen Zong]([Chen Zong's Homepage (zongchen.site)](https://zongchen.site/)), Jinhui Zhao, **Lei Wang**, Pengfei Wang, Shuangmin Chen, [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html), Yuanfeng Zhou, [Changhe Tu]([Changhe Tu's Homepage (sdu.edu.cn)](http://irc.cs.sdu.edu.cn/~chtu/index.html)) and [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html).
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- 
+</div>
+</div>
+
+- 
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
