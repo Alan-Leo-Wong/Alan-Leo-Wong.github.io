@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Leo Wong / Lei Wang(王磊), I am a 2nd year Master Student at [Interdisciplinary Research Center (IRC)](https://irc.cs.sdu.edu.cn/index.htm), Shandong University (SDU), under the supervision of [Prof. Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html). My research interests include computer graphics and geometry processing.
+My name is Leo Wong / Lei Wang(王磊), I am a 2nd year Master Student at [Interdisciplinary Research Center (IRC)](https://irc.cs.sdu.edu.cn/index.htm), [Shandong University (SDU)](http://www.en.qd.sdu.edu.cn/), under the supervision of [Prof. Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html). My research interests include computer graphics and geometry processing.
 
 **I am actively preparing to apply for PhD programs.** Feel free to explore my research background and academic interests to learn more about my plans and goals for my future academic career.
 
