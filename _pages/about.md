@@ -34,6 +34,8 @@ My research interest includes neural machine translation and computer vision. I 
 A Region‐growing GradNormal Algorithm for Geometrically and Topologically Accurate Mesh Extraction. ***(1st Best Paper Award)***
 
 [Chen Zong]([Chen Zong's Homepage (zongchen.site)](https://zongchen.site/)), Jinhui Zhao, **Lei Wang**, Pengfei Wang, Shuangmin Chen, [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html), Yuanfeng Zhou, [Changhe Tu]([Changhe Tu's Homepage (sdu.edu.cn)](http://irc.cs.sdu.edu.cn/~chtu/index.html)) and [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html).
+</div>
+</div>
 
 - 
 
