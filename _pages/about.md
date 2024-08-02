@@ -23,20 +23,20 @@ My name is Leo Wong / Lei Wang(王磊), I am a 2nd year Master Student at [Inter
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 One paper conditionally accepted to [Pacific Graph 2024]([PG 2024 (hsu.edu.cn)](https://pg2024.hsu.edu.cn/)).
-- *2022.02*: &nbsp;🎉🎉 One paper conditionally accepted to [SIGGRAPH Asia 2024]([Home - SIGGRAPH Asia 2024](https://asia.siggraph.org/2024/)).
+- *2024.07*: &nbsp;🎉🎉 One paper conditionally accepted to [Pacific Graph 2024]([PG 2024 (hsu.edu.cn)](https://pg2024.hsu.edu.cn/)).
+- *2024.07*: &nbsp;🎉🎉 One paper conditionally accepted to [SIGGRAPH Asia 2024]([Home - SIGGRAPH Asia 2024](https://asia.siggraph.org/2024/)). 
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPM 2023</div><img src='images/2023SPMGradNormal.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+
 A Region‐growing GradNormal Algorithm for Geometrically and Topologically Accurate Mesh Extraction. ***(1st Best Paper Award)***
 
-[Chen Zong]([Chen Zong's Homepage (zongchen.site)](https://zongchen.site/)), Jinhui Zhao, **Lei Wang**, Pengfei Wang, Shuangmin Chen, [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html), Yuanfeng Zhou, [Changhe Tu]([Changhe Tu's Homepage (sdu.edu.cn)](http://irc.cs.sdu.edu.cn/~chtu/index.html)) and [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html).
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
