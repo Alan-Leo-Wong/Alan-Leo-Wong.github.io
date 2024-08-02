@@ -17,16 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
-
 My name is Leo Wong / Lei Wang(王磊), I am a 2nd year Master Student at [Interdisciplinary Research Center (IRC)](https://irc.cs.sdu.edu.cn/index.htm), Shandong University (SDU), under the supervision of [Prof. Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html). My research interests include computer graphics and geometry processing.
 
 **I am actively preparing to apply for PhD programs.** Feel free to explore my research background and academic interests to learn more about my plans and goals for my future academic career.
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 One paper conditionally accepted to [Pacific Graph 2024]([PG 2024 (hsu.edu.cn)](https://pg2024.hsu.edu.cn/)).
-- *2024.07*: &nbsp;🎉🎉 One paper conditionally accepted to [SIGGRAPH Asia 2024]([Home - SIGGRAPH Asia 2024](https://asia.siggraph.org/2024/)). 
+- *2022.02*: &nbsp;🎉🎉 One paper conditionally accepted to [Pacific Graph 2024]([PG 2024 (hsu.edu.cn)](https://pg2024.hsu.edu.cn/)).
+- *2022.02*: &nbsp;🎉🎉 One paper conditionally accepted to [SIGGRAPH Asia 2024]([Home - SIGGRAPH Asia 2024](https://asia.siggraph.org/2024/)).
 
 # 📝 Publications 
 
@@ -37,11 +35,25 @@ A Region‐growing GradNormal Algorithm for Geometrically and Topologically Accu
 
 [Chen Zong]([Chen Zong's Homepage (zongchen.site)](https://zongchen.site/)), Jinhui Zhao, **Lei Wang**, Pengfei Wang, Shuangmin Chen, [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html), Yuanfeng Zhou, [Changhe Tu]([Changhe Tu's Homepage (sdu.edu.cn)](http://irc.cs.sdu.edu.cn/~chtu/index.html)) and [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html).
 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+# 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
 - *2022.09 - now*, M.Eng in Computer Technology, Shandong University, Qingdao, China. 
 - *2018.09 - 2022.06*, B.Eng in Software Engineering, Harbin University of Science and Technology, Harbin, China. 
 
-# 💻 Teaching
-- *2024.03 - 2024.07*, Advanced Programming Language Design.  Teaching Assistant.
+# 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+# 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
