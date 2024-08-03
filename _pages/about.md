@@ -46,7 +46,8 @@ PCO: Precision-Controllable Offset Surfaces with Sharp Features.
 </div>
 </div>
 
-- ``SPM 2023`` A Region‐growing GradNormal Algorithm for Geometrically and Topologically Accurate Mesh Extraction ***(1st Best Paper Award)***, [Chen Zong]([Chen Zong's Homepage (zongchen.site)](https://zongchen.site/)), Jinhui Zhao, **Lei Wang**, Pengfei Wang, Shuangmin Chen, [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html), Yuanfeng Zhou, [Changhe Tu]([Changhe Tu's Homepage (sdu.edu.cn)](http://irc.cs.sdu.edu.cn/~chtu/index.html)) and [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html).
+- ``TVCG In-pending`` Towards Voronoi Diagrams of Surface Patches, Pengfei Wang, Jiantao Song, **Lei Wang**, Shiqing Xin, Xiaohong Jia, Dongming Yan, Shuangmin Chen, Changhe Tu and Wenping Wang.
+- ``TVCG In-pending`` ITS: Implicit Thin Shell for Polygonal Meshes, Huibiao Wen, **Lei Wang**, Yunxiao Zhang, Shuangmin Chen, Shiqing Xin, Chongyang Deng, Changhe Tu, Ying He and Wenping Wang.
 
 # 🎖 Honors and Awards
 - *2022*  Outstanding Graduates of HUST. 
