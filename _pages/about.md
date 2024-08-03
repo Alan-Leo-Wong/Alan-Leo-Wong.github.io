@@ -46,8 +46,8 @@ PCO: Precision-Controllable Offset Surfaces with Sharp Features.
 </div>
 </div>
 
-- ``TVCG In-pending`` Towards Voronoi Diagrams of Surface Patches, Pengfei Wang, Jiantao Song, **Lei Wang**, Shiqing Xin, Xiaohong Jia, Dongming Yan, Shuangmin Chen, Changhe Tu and Wenping Wang.
-- ``TVCG In-pending`` ITS: Implicit Thin Shell for Polygonal Meshes, Huibiao Wen, **Lei Wang**, Yunxiao Zhang, Shuangmin Chen, Shiqing Xin, Chongyang Deng, Changhe Tu, Ying He and Wenping Wang.
+- ``TVCG In-pending`` "Towards Voronoi Diagrams of Surface Patches". Pengfei Wang, Jiantao Song, **Lei Wang**, Shiqing Xin, Xiaohong Jia, Dongming Yan, Shuangmin Chen, Changhe Tu and Wenping Wang.
+- ``TVCG In-pending`` "ITS: Implicit Thin Shell for Polygonal Meshes". Huibiao Wen, **Lei Wang**, Yunxiao Zhang, Shuangmin Chen, Shiqing Xin, Chongyang Deng, Changhe Tu, Ying He and Wenping Wang.
 
 # 🎖 Honors and Awards
 - *2022*  Outstanding Graduates of HUST. 
