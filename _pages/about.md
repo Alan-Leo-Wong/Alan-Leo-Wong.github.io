@@ -33,7 +33,7 @@ Hi! My name is Leo Wong / Lei Wang(王磊), I am a 2nd year Master Student at [I
 
 Mesh Slicing Along Isolines of Surface-Based Functions.
 
-**Lei Wang***, Xudong Wang*, Wensong Wang, Shuangmin Chen, [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html), [Changhe Tu]([Changhe Tu's Homepage (sdu.edu.cn)](http://irc.cs.sdu.edu.cn/~chtu/index.html)) and [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html).
+**Lei Wang\***, Xudong Wang\*, Wensong Wang, Shuangmin Chen, [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html), [Changhe Tu]([Changhe Tu's Homepage (sdu.edu.cn)](http://irc.cs.sdu.edu.cn/~chtu/index.html)) and [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html).
 </div>
 </div>
 
