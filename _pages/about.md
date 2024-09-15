@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Leo Wong / Lei Wang(王磊), I am a 2nd year Master Student at [Interdisciplinary Research Center (IRC)](https://irc.cs.sdu.edu.cn/index.htm), [Shandong University (SDU)](http://www.en.qd.sdu.edu.cn/), under the supervision of [Prof. Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html). My research interests include computer graphics and geometry processing.
+Hi! My name is Leo Wong / Lei Wang(王磊), I am a 3rd year Master Student at [Interdisciplinary Research Center (IRC)](https://irc.cs.sdu.edu.cn/index.htm), [Shandong University (SDU)](http://www.en.qd.sdu.edu.cn/), under the supervision of [Prof. Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html). My research interests include computer graphics and geometry processing.
 
 **I am actively preparing to apply for PhD programs.** Feel free to explore my research background and academic interests to learn more about my plans and goals for my future academic career.
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 One paper conditionally accepted to [Pacific Graph 2024]([PG 2024 (hsu.edu.cn)](https://pg2024.hsu.edu.cn/)).
-- *2024.07*: &nbsp;🎉🎉 One paper conditionally accepted to [SIGGRAPH Asia 2024]([Home - SIGGRAPH Asia 2024](https://asia.siggraph.org/2024/)). 
+- *2024.08*: &nbsp;🎉🎉 One paper accepted to [Pacific Graph 2024]([PG 2024 (hsu.edu.cn)](https://pg2024.hsu.edu.cn/)).
+- *2024.08*: &nbsp;🎉🎉 One paper accepted to [SIGGRAPH Asia 2024]([Home - SIGGRAPH Asia 2024](https://asia.siggraph.org/2024/)). 
 
 # 📝 Publications 
 
@@ -33,7 +33,7 @@ Hi! My name is Leo Wong / Lei Wang(王磊), I am a 2nd year Master Student at [I
 
 Mesh Slicing Along Isolines of Surface-Based Functions.
 
-**Lei Wang\***, Xudong Wang\*, Wensong Wang, Shuangmin Chen, [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html), [Changhe Tu]([Changhe Tu's Homepage (sdu.edu.cn)](http://irc.cs.sdu.edu.cn/~chtu/index.html)) and [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html).
+**Lei Wang\***, Xudong Wang\*, Wensong Wang, Shuangmin Chen, [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html), [Changhe Tu](http://irc.cs.sdu.edu.cn/~chtu/index.html) and [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html).
 </div>
 </div>
 
@@ -42,7 +42,7 @@ Mesh Slicing Along Isolines of Surface-Based Functions.
 
 PCO: Precision-Controllable Offset Surfaces with Sharp Features.
 
-**Lei Wang**, Xudong Wang, Pengfei Wang, Shuangmin Chen, [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html), [‪Jiong Guo](https://scholar.google.com.sg/citations?user=4rjuV8YAAAAJ&hl=en), [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html) and [Changhe Tu]([Changhe Tu's Homepage (sdu.edu.cn)](http://irc.cs.sdu.edu.cn/~chtu/index.html)).
+**Lei Wang**, Xudong Wang, [Pengfei Wang](https://sssomeone.github.io/), Shuangmin Chen, [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html), [‪Jiong Guo](https://scholar.google.com.sg/citations?user=4rjuV8YAAAAJ&hl=en), [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html) and [Changhe Tu](http://irc.cs.sdu.edu.cn/~chtu/index.html).
 </div>
 </div>
 
