@@ -34,6 +34,9 @@ Hi! My name is Leo Wong / Lei Wang(王磊), I am a 3rd year Master Student at [I
 Mesh Slicing Along Isolines of Surface-Based Functions.
 
 **Lei Wang\***, Xudong Wang\*, Wensong Wang, Shuangmin Chen, [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html), [Changhe Tu](http://irc.cs.sdu.edu.cn/~chtu/index.html) and [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html).
+
+\[[**Paper**](https://diglib.eg.org/server/api/core/bitstreams/d38ec3e7-05c2-4c56-b6b8-ffc1ac7c83c2/content)]
+
 </div>
 </div>
 
@@ -43,14 +46,20 @@ Mesh Slicing Along Isolines of Surface-Based Functions.
 PCO: Precision-Controllable Offset Surfaces with Sharp Features.
 
 **Lei Wang**, Xudong Wang, [Pengfei Wang](https://sssomeone.github.io/), Shuangmin Chen, [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html), [‪Jiong Guo](https://scholar.google.com.sg/citations?user=4rjuV8YAAAAJ&hl=en), [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html) and [Changhe Tu](http://irc.cs.sdu.edu.cn/~chtu/index.html).
+
+[[**Paper**](https://media.githubusercontent.com/media/Alan-Leo-Wong/SIGGASIA24-PCO-ProjectPage/refs/heads/main/src/assets/PCO___SigAsia_2024_.pdf?download=true)] | [[**Paper (low res)**](https://media.githubusercontent.com/media/Alan-Leo-Wong/SIGGASIA24-PCO-ProjectPage/refs/heads/main/src/assets/PCO___SigAsia_2024_low_res.pdf?download=true)] | [[**Project Page**](https://alan-leo-wong.github.io/SIGGASIA24-PCO-ProjectPage/)]
+
 </div>
 </div>
 
-- ``TVCG In-pending`` "Towards Voronoi Diagrams of Surface Patches." Pengfei Wang, Jiantao Song, **Lei Wang**, Shiqing Xin, Xiaohong Jia, Dongming Yan, Shuangmin Chen, Changhe Tu and Wenping Wang.
-- ``TVCG In-pending`` "ITS: Implicit Thin Shell for Polygonal Meshes." Huibiao Wen, **Lei Wang**, Yunxiao Zhang, Shuangmin Chen, Shiqing Xin, Chongyang Deng, Changhe Tu, Ying He and Wenping Wang.
+- ``TVCG Under Review`` "Towards Voronoi Diagrams of Surface Patches." Pengfei Wang, Jiantao Song, **Lei Wang**, Shiqing Xin, Xiaohong Jia, Dongming Yan, Shuangmin Chen, Changhe Tu and Wenping Wang.
+- ``TVCG Under Review`` "ITS: Implicit Thin Shell for Polygonal Meshes." Huibiao Wen, **Lei Wang**, Yunxiao Zhang, Shuangmin Chen, Shiqing Xin, Chongyang Deng, Changhe Tu, Ying He and Wenping Wang. [[**Arxiv**]([[2411.01488\] ITS: Implicit Thin Shell for Polygonal Meshes](https://arxiv.org/abs/2411.01488))]
 
 # 🎖 Honors and Awards
-- *2022*  Outstanding Graduates of HUST. 
+- *2024* Candidate for the President's Award. **(0.5%)**  
+- *2024* National Scholarship. **(1%)**  
+- *2023* Outstanding Graduate Student of the Year.
+- *2022*  Outstanding Graduates of HUST. **(0.25%)** 
 
 # 📖 Educations
 - *2022.09 - now*, M.Eng in Computer Technology, Shandong University, Qingdao, China. 
