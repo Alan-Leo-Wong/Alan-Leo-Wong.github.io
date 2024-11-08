@@ -47,7 +47,7 @@ PCO: Precision-Controllable Offset Surfaces with Sharp Features.
 
 **Lei Wang**, Xudong Wang, [Pengfei Wang](https://sssomeone.github.io/), Shuangmin Chen, [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html), [‪Jiong Guo](https://scholar.google.com.sg/citations?user=4rjuV8YAAAAJ&hl=en), [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html) and [Changhe Tu](http://irc.cs.sdu.edu.cn/~chtu/index.html).
 
-[[**Paper**](https://media.githubusercontent.com/media/Alan-Leo-Wong/SIGGASIA24-PCO-ProjectPage/refs/heads/main/src/assets/PCO___SigAsia_2024_.pdf?download=true)] \| [[**Paper (low res)**](https://media.githubusercontent.com/media/Alan-Leo-Wong/SIGGASIA24-PCO-ProjectPage/refs/heads/main/src/assets/PCO___SigAsia_2024_low_res.pdf?download=true)] \| [[**Project Page**](https://alan-leo-wong.github.io/SIGASIA24-PCO-ProjectPage/)]
+[[**Paper**](https://media.githubusercontent.com/media/Alan-Leo-Wong/SIGASIA24-PCO-ProjectPage/refs/heads/main/src/assets/PCO___SigAsia_2024_.pdf?download=true)] \| [[**Paper (low res)**](https://media.githubusercontent.com/media/Alan-Leo-Wong/SIGASIA24-PCO-ProjectPage/refs/heads/main/src/assets/PCO___SigAsia_2024_low_res.pdf?download=true)] \| [[**Project Page**](https://alan-leo-wong.github.io/SIGASIA24-PCO-ProjectPage/)]
 
 </div>
 </div>
