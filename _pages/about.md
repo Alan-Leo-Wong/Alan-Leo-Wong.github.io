@@ -59,7 +59,7 @@ PCO: Precision-Controllable Offset Surfaces with Sharp Features.
 - *2024* Candidate for the President's Award. **(0.25%)**  
 - *2024* National Scholarship. **(1%)**  
 - *2023* Outstanding Graduate Student of the Year.
-- *2022*  Outstanding Graduates of HUST. **(0.5%)** 
+- *2022*  Outstanding Graduates of HUST. **(1%)** 
 
 # 📖 Educations
 - *2022.09 - now*, M.Eng in Computer Technology, Shandong University, Qingdao, China. 
