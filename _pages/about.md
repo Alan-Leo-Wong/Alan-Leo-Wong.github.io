@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! My name is Leo Wong / Lei Wang(王磊), I am a 3rd year Master Student at [Interdisciplinary Research Center (IRC)](https://irc.cs.sdu.edu.cn/index.htm), [Shandong University (SDU)](http://www.en.qd.sdu.edu.cn/), under the supervision of [Prof. Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html). My research interests include computer graphics and geometry processing - particularly in **shape analysis and representation**, as well as **exploring geometric solutions for real-world applications.**
 
-**I am actively preparing to apply for PhD programs.** Feel free to explore my research background and academic interests to learn more about my plans and goals for my future academic career. You can download my [[CV]](https://media.githubusercontent.com/media/Alan-Leo-Wong/CV/refs/heads/master/Lei_Wang_CV_2024.pdf?download=true) here.
+**I am actively preparing to apply for PhD programs.** Feel free to explore my research background and academic interests to learn more about my plans and goals for my future academic career. Here is my [[CV]](https://media.githubusercontent.com/media/Alan-Leo-Wong/CV/refs/heads/master/Lei_Wang_CV_2024.pdf?download=true).
 
 
 # 🔥 News
@@ -52,7 +52,7 @@ PCO: Precision-Controllable Offset Surfaces with Sharp Features.
 </div>
 </div>
 
-- ``TVCG Under Review`` "Towards Voronoi Diagrams of Surface Patches." Pengfei Wang, Jiantao Song, **Lei Wang**, Shiqing Xin, Xiaohong Jia, Dongming Yan, Shuangmin Chen, Changhe Tu and Wenping Wang.
+- ``TVCG Under Review`` "Towards Voronoi Diagrams of Surface Patches." Pengfei Wang, Jiantao Song, **Lei Wang**, Shiqing Xin, Xiaohong Jia, Dongming Yan, Shuangmin Chen, Changhe Tu and Wenping Wang. [[**Arxiv**]](https://arxiv.org/abs/2411.06471)
 - ``TVCG Under Review`` "ITS: Implicit Thin Shell for Polygonal Meshes." Huibiao Wen, **Lei Wang**, Yunxiao Zhang, Shuangmin Chen, Shiqing Xin, Chongyang Deng, Changhe Tu, Ying He and Wenping Wang. [[**Arxiv**]([[2411.01488\] ITS: Implicit Thin Shell for Polygonal Meshes](https://arxiv.org/abs/2411.01488))]
 
 # 🎖 Honors and Awards
