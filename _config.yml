@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title: "Leo Wong"
+title: "Lei Wang"
 description: "Master student in Shandong University. Focusing on Computer Graphics and Geometry Processing."
 repository: "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn: true
@@ -21,7 +21,7 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 
 # Site Author
 author:
-  name: "Leo Wong"
+  name: "Lei Wang"
   avatar: "images/my-profile6.png"
   bio: #"Lorem ipsum College"
   location: "Qingdao, China"
