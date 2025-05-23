@@ -17,31 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Lei Wang / Leo Wong (王磊), I am a 3rd year Master Student at [Interdisciplinary Research Center (IRC)](https://irc.cs.sdu.edu.cn/index.htm), [Shandong University (SDU)](http://www.en.qd.sdu.edu.cn/), under the supervision of [Prof. Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html). My research interests include computer graphics and geometry processing - particularly in **shape analysis and representation**, as well as **exploring geometric solutions for real-world applications.**
+Hi! My name is Lei Wang (王磊), I am a master candidate at [Interdisciplinary Research Center (IRC)](https://irc.cs.sdu.edu.cn/index.htm), [Shandong University (SDU)](http://www.en.qd.sdu.edu.cn/), under the supervision of [Prof. Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html). My research interests include computer graphics and geometry processing - particularly in **mesh modeling**, **shape analysis**, as well as **exploring geometric solutions for real-world applications.**
 
-**I am actively preparing to apply for PhD programs.** Feel free to explore my research background and academic interests to learn more about my plans and goals for my future academic career. Here is my [[CV]](https://media.githubusercontent.com/media/Alan-Leo-Wong/CV/refs/heads/master/Lei_Wang_CV_2024.pdf?download=true).
+I am actively preparing to apply for PhD programs. Feel free to explore my research background and academic interests to learn more about my plans and goals for my future academic career.
 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 One paper accepted to [TVCG](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945). 
 - *2024.08*: &nbsp;🎉🎉 One paper accepted to [Pacific Graph 2024]([PG 2024 (hsu.edu.cn)](https://pg2024.hsu.edu.cn/)).
 - *2024.08*: &nbsp;🎉🎉 One paper accepted to [SIGGRAPH Asia 2024]([Home - SIGGRAPH Asia 2024](https://asia.siggraph.org/2024/)). 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PG 2024</div><img src='images/PG24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Transactions on Graphics (Proc. SIGGRAPH Asia 2024)</div><img src='images/SIGGRAPHAsia2024PCO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Mesh Slicing Along Isolines of Surface-Based Functions.
-
-**Lei Wang\***, Xudong Wang\*, Wensong Wang, Shuangmin Chen, [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html), [Changhe Tu](http://irc.cs.sdu.edu.cn/~chtu/index.html) and [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html).
-
-\[[**Paper**](https://diglib.eg.org/server/api/core/bitstreams/d38ec3e7-05c2-4c56-b6b8-ffc1ac7c83c2/content)]
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2024 Journal Track</div><img src='images/SIGGRAPHAsia2024PCO.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 PCO: Precision-Controllable Offset Surfaces with Sharp Features.
 
@@ -52,18 +42,70 @@ PCO: Precision-Controllable Offset Surfaces with Sharp Features.
 </div>
 </div>
 
-- ``TVCG Under Review`` "Towards Voronoi Diagrams of Surface Patches." Pengfei Wang, Jiantao Song, **Lei Wang**, Shiqing Xin, Xiaohong Jia, Dongming Yan, Shuangmin Chen, Changhe Tu and Wenping Wang. [[**Arxiv**]](https://arxiv.org/abs/2411.06471)
-- ``TVCG Under Review`` "ITS: Implicit Thin Shell for Polygonal Meshes." Huibiao Wen, **Lei Wang**, Yunxiao Zhang, Shuangmin Chen, Shiqing Xin, Chongyang Deng, Changhe Tu, Ying He and Wenping Wang. [[**Arxiv**]([[2411.01488\] ITS: Implicit Thin Shell for Polygonal Meshes](https://arxiv.org/abs/2411.01488))]
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pacific Graphics 2024</div><img src='images/PG24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+Mesh Slicing Along Isolines of Surface-Based Functions.
+
+**Lei Wang\***, Xudong Wang\*, Wensong Wang, Shuangmin Chen, [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html), [Changhe Tu](http://irc.cs.sdu.edu.cn/~chtu/index.html) and [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html). (* co-author)
+
+\[[**Paper**](https://diglib.eg.org/server/api/core/bitstreams/d38ec3e7-05c2-4c56-b6b8-ffc1ac7c83c2/content)]
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVCG</div><img src='images/towards_voronoi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+Towards Voronoi Diagrams of Surface Patches.
+
+[Pengfei Wang](https://sssomeone.github.io/), [Jiantao Song](https://yuemos.github.io/), **Lei Wang**, [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html), [Xiaohong Jia](http://mmrc.iss.ac.cn/~xhjia/), [Dongming Yan](https://sites.google.com/site/yandongming/), Shuangmin Chen, [Changhe Tu](http://irc.cs.sdu.edu.cn/~chtu/index.html) and [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html).
+
+[[**Arxiv**](https://arxiv.org/abs/2411.06471)]
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Visual Computer</div><img src='images/ims.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+ImS: Implicit Shell for the Sandwich-Walled Space Surrounding Polygonal Meshes.
+
+Huibiao Wen, **Lei Wang**, Shuangmin Chen, [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html), Chongyang Deng, [Changhe Tu](http://irc.cs.sdu.edu.cn/~chtu/index.html), [Ying He](https://personal.ntu.edu.sg/yhe/) and [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html).
+
+[[**Arxiv**]([[2411.01488\] ITS: Implicit Thin Shell for Polygonal Meshes](https://arxiv.org/abs/2411.01488))]
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computer-Aided Design (Proc. SPM 2023)</div><img src='images/2023SPMGradNormal.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+A Region‐growing GradNormal Algorithm for Geometrically and Topologically Accurate Mesh Extraction.
+
+[Chen Zong](https://zongchen.site/), Jinhui Zhao, **Lei Wang**, Pengfei Wang, Shuangmin Chen, [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html), [Yuanfeng Zhou](https://scholar.google.com/citations?user=zJNjKEcAAAAJ&hl=en), [Changhe Tu](http://irc.cs.sdu.edu.cn/~chtu/index.html) and [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html).
+
+[[**Paper**](https://doi.org/10.1016/j.cad.2023.103559)]
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2024* Candidate for the President's Award. **(0.25%)**  
-- *2024* National Scholarship. **(1%)**  
-- *2023* Outstanding Graduate Student of the Year.
-- *2022*  Outstanding Graduates of HUST. **(1%)** 
+- *2024* Candidate for the President's Award.
+- *2024* National Scholarship.
+- *2022* Outstanding Graduates of HUST.
 
 # 📖 Educations
-- *2022.09 - now*, M.Eng in Computer Technology, Shandong University, Qingdao, China. 
-- *2018.09 - 2022.06*, B.Eng in Software Engineering, Harbin University of Science and Technology, Harbin, China. 
+- *2022.09 - 2025.06*, M.Eng. in Computer Technology, Shandong University, Qingdao, China. 
+- *2018.09 - 2022.06*, B.S. in Software Engineering, Harbin University of Science and Technology, Harbin, China. 
 
 # 💬 Teaching
 - *2024.02 - 2024.07*, Advanced Programming Language Design.  **Teaching Assistant.**
+
+# 💻 Reviewer
+
+- TOG
