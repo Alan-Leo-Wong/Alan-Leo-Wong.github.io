@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Lei Wang (王磊), I am a master candidate at [Interdisciplinary Research Center (IRC)](https://irc.cs.sdu.edu.cn/index.htm), [Shandong University (SDU)](http://www.en.qd.sdu.edu.cn/), under the supervision of [Prof. Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html). My research interests include computer graphics and geometry processing - particularly in **mesh modeling**, **shape analysis**, as well as **exploring geometric solutions for real-world applications.**
+Hi! My name is Lei Wang (王磊), I am a master candidate at [Interdisciplinary Research Center (IRC)](https://irc.cs.sdu.edu.cn/index.htm), [Shandong University (SDU)](http://www.en.qd.sdu.edu.cn/), under the supervision of [Prof. Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html). My research interests include **computer graphics and geometry processing** - particularly in mesh processing, modeling, shape analysis, as well as exploring geometric solutions for real-world applications.
 
 I am actively preparing to apply for PhD programs. Feel free to explore my research background and academic interests to learn more about my plans and goals for my future academic career.
 
@@ -100,11 +100,11 @@ A Region‐growing GradNormal Algorithm for Geometrically and Topologically Accu
 - *2022* Outstanding Graduates of HUST.
 
 # 📖 Educations
-- *2022.09 - 2025.06*, M.Eng. in Computer Technology, Shandong University, Qingdao, China. 
-- *2018.09 - 2022.06*, B.S. in Software Engineering, Harbin University of Science and Technology, Harbin, China. 
+- *Sep. 2022 - Jun. 2025*, M.Eng. in Computer Technology, Shandong University, Qingdao, China. 
+- *Sep. 2018 - Jun. 2022*, B.S. in Software Engineering, Harbin University of Science and Technology, Harbin, China. 
 
 # 💬 Teaching
-- *2024.02 - 2024.07*, Advanced Programming Language Design.  **Teaching Assistant.**
+- *Feb. 2025 - Jun. 2025*, Advanced Programming Language Design.  **Teaching Assistant.**
 
 # 💻 Reviewer
 
