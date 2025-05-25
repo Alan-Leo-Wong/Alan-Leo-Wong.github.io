@@ -112,4 +112,4 @@ A Region‐growing GradNormal Algorithm for Geometrically and Topologically Accu
 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YOA_Mj7-1C-eov-8swB9ghfkuaZaQWzRjOuMDgDOTo4&cl=ffffff&w=a"></script>
+<a href="https://clustrmaps.com/site/1c685"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=YOA_Mj7-1C-eov-8swB9ghfkuaZaQWzRjOuMDgDOTo4&cl=ffffff" /></a>
