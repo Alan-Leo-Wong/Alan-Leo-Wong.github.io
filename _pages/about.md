@@ -106,6 +106,6 @@ A Region‐growing GradNormal Algorithm for Geometrically and Topologically Accu
 # 💬 Teaching
 - *Feb. 2025 - Jun. 2025*, Advanced Programming Language Design.  **Teaching Assistant.**
 
-# 💻 Reviewer
+# 💻 Services
 
-- ACM Transactions on Graphics
+- Reviewer: ACM Transactions on Graphics
