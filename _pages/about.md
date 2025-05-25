@@ -24,7 +24,7 @@ I am actively preparing to apply for PhD programs. Feel free to explore my resea
 
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 One paper accepted to [TVCG](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945). 
-- *2024.08*: &nbsp;🎉🎉 One paper accepted to [Pacific Graph 2024]([PG 2024 (hsu.edu.cn)](https://pg2024.hsu.edu.cn/)).
+- *2024.08*: &nbsp;🎉🎉 One paper accepted to [Pacific Graphics 2024]([PG 2024 (hsu.edu.cn)](https://pg2024.hsu.edu.cn/)).
 - *2024.08*: &nbsp;🎉🎉 One paper accepted to [SIGGRAPH Asia 2024]([Home - SIGGRAPH Asia 2024](https://asia.siggraph.org/2024/)). 
 
 # 📝 Publications 
