@@ -108,8 +108,4 @@ A Region‐growing GradNormal Algorithm for Geometrically and Topologically Accu
 
 # 💻 Reviewer
 
-- TOG
-
-
-
-<a href="https://clustrmaps.com/site/1c685"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=YOA_Mj7-1C-eov-8swB9ghfkuaZaQWzRjOuMDgDOTo4&cl=ffffff" /></a>
+- ACM Transactions on Graphics
