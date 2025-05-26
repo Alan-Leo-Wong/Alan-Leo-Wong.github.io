@@ -101,7 +101,7 @@ A Region‐growing GradNormal Algorithm for Geometrically and Topologically Accu
 
 # 📖 Educations
 - *Sep. 2022 - Jun. 2025*, M.Eng. in Computer Technology, Shandong University, Qingdao, China. 
-- *Sep. 2018 - Jun. 2022*, B.S. in Software Engineering, Harbin University of Science and Technology, Harbin, China. 
+- *Sep. 2018 - Jun. 2022*, B.Eng. in Software Engineering, Harbin University of Science and Technology, Harbin, China. 
 
 # 💬 Teaching
 - *Feb. 2025 - Jun. 2025*, Advanced Programming Language Design.  **Teaching Assistant.**
