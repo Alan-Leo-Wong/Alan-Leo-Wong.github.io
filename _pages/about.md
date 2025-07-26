@@ -48,7 +48,7 @@ PCO: Precision-Controllable Offset Surfaces with Sharp Features.
 
 Mesh Slicing Along Isolines of Surface-Based Functions.
 
-**Lei Wang\***, Xudong Wang\*, Wensong Wang, Shuangmin Chen, [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html), [Changhe Tu](http://irc.cs.sdu.edu.cn/~chtu/index.html) and [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html). (* co-author)
+**Lei Wang\***, Xudong Wang\*, Wensong Wang, Shuangmin Chen, [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html), [Changhe Tu](http://irc.cs.sdu.edu.cn/~chtu/index.html) and [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html). (* equal contributions)
 
 \[[**Paper**](https://diglib.eg.org/server/api/core/bitstreams/d38ec3e7-05c2-4c56-b6b8-ffc1ac7c83c2/content)]
 
