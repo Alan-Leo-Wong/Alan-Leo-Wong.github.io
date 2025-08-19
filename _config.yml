@@ -22,7 +22,7 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 # Site Author
 author:
   name: "Lei Wang"
-  avatar: "images/my-profile6.png"
+  avatar: "images/profile-avatar.jpg"
   bio: #"Lorem ipsum College"
   location: "Qingdao, China"
   employer:
